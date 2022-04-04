@@ -27,12 +27,13 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 0.5em;
+    font-size: 0.8em;
     background: -webkit-linear-gradient(rgba(78, 221, 247, 0.685), rgb(233, 98, 215));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    padding-bottom: 0.6em;
-    margin-top: 4em;
+    margin-top: 6em;
+    margin-bottom: 0.5em;
+    padding-bottom: -0.5em;
 }
 .login-input-email{
     display: flex;
@@ -55,21 +56,25 @@ body{
     width: 98%;
     height: 2em;
 }
-.sign-in-buttom{
+.login-right button{
     display: flex;
-    align-items: center;
-    color:rgba(141, 238, 241, 0.685);
-    background-color:#000d539a;
+    width:100%;
+    padding:1em;
+    color:#10d1d1;
+    background:#000d539a;
     border-radius: 5px;
-    border-style:double;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 0.8em;
+    font-family:inherit;
+    border: none;
+    margin-top: 2em;
 }
+.login-right button:hover{
+    background-color: rgba(229, 127, 255, 0.815);
+    color:#000834;
+    cursor:pointer;
 
-.new-account-buttom{
-    display: flex;
-    align-items: center;
-    color:rgba(141, 238, 241, 0.685);
-    background-color:#000d539a;
-    border-radius: 5px;
 }
 .login-input-email svg{
     margin-right: 0.5em;

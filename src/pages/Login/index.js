@@ -22,12 +22,12 @@ const Login = () => {
                 <BiLock/>
                 <input type="password" placeholder="Password"></input>
                 </div>
-                <button className="sign-in-buttom" type="submit">
+                <button  type="submit">
                     Sign In
                 </button>
 
                 <h4>Don't haver an account? </h4>
-                <button className="new-account-buttom"type="submit">
+                <button type="submit">
                     Creat New Account
                 </button>
             </div>
