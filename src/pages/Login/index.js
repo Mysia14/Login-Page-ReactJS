@@ -9,22 +9,27 @@ const Login = () => {
         <div className="login">
             <div className="login-logo">
                 <img src="../assets/images/login-icon.png" alt="Login logo"></img>
-
             </div>
+
             <div className="login-right">
                 <h1>Login</h1>
-
-                <div className="loginInputEmail">
-                <input type= "email" placeholder="E-mail Address"></input>
+                <div className="login-input-email">
                 <BiMailSend/>
-                </div>
-                
-                <div>
-                <input type="password" placeholder="Password"></input>
-                <BiLock/>
-                
+                <input type= "email" placeholder="email@domain.com"></input>
                 </div>
 
+                <div className="login-input-password">
+                <BiLock/>
+                <input type="password" placeholder="Password"></input>
+                </div>
+                <button className="sign-in-buttom" type="submit">
+                    Sign In
+                </button>
+
+                <h4>Don't haver an account? </h4>
+                <button className="new-account-buttom"type="submit">
+                    Creat New Account
+                </button>
             </div>
         </div>
     )

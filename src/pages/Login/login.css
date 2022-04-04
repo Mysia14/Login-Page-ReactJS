@@ -4,6 +4,97 @@ body{
 }
 .login{
     display: flex;
-    color:#ffffff
-  
+    color:#ffffff;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    width:100%;
+}
+.login-logo img{
+    display: flex;
+    width:20em;
+    height: 20em; 
+}
+.login-right h1{
+    display: flex;
+    font-size: 3em;
+    background: -webkit-linear-gradient(rgba(78, 221, 247, 0.685), rgb(233, 98, 215));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 0.6em;
+}
+.login-right h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.5em;
+    background: -webkit-linear-gradient(rgba(78, 221, 247, 0.685), rgb(233, 98, 215));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 0.6em;
+    margin-top: 4em;
+}
+.login-input-email{
+    display: flex;
+    align-items: center;
+    color:rgba(141, 238, 241, 0.685) ;
+    background-color:#000d539a;
+    border-radius: 5px;
+    padding: 5px;
+    width: 98%;
+    height: 2em;
+}
+.login-input-password{
+    display: flex;
+    align-items: center;
+    color:rgba(141, 238, 241, 0.685) ;
+    background-color:#000d539a;
+    border-radius: 5px;
+    margin-top:0.5em;
+    padding: 5px;
+    width: 98%;
+    height: 2em;
+}
+.sign-in-buttom{
+    display: flex;
+    align-items: center;
+    color:rgba(141, 238, 241, 0.685);
+    background-color:#000d539a;
+    border-radius: 5px;
+    border-style:double;
+}
+
+.new-account-buttom{
+    display: flex;
+    align-items: center;
+    color:rgba(141, 238, 241, 0.685);
+    background-color:#000d539a;
+    border-radius: 5px;
+}
+.login-input-email svg{
+    margin-right: 0.5em;
+    font-size: 1.2em;
+}
+.login-input-password svg{
+    margin-right: 0.5em;
+    font-size: 1.2em;
+}
+.login-input-email input{
+    background:transparent;
+    width:100%;
+    outline-width: 0;
+    color: rgba(124, 247, 252, 0.973);
+    border: none;
+    font-size: 1em;
+    margin-right: 0.5em;
+    padding-bottom: 0.5em;
+}
+.login-input-password input{
+    background:transparent;
+    width:100%;
+    outline-width: 0;
+    color: rgba(124, 247, 252, 0.973);
+    border: none;
+    font-size: 1em;
+    margin-right: 0.5em;
 }
