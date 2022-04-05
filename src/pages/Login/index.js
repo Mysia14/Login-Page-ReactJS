@@ -9,6 +9,10 @@ function Login () {
     const [email, setEmail] = useState("")
     const [password, setPassword] = useState ("")
     const [show, setShow] = useState (false)
+    const handleClick = (e) => {
+        e.preventDefault()
+        setShow(!show);
+    }
     return(
         <div className="login">
             <div className="login-logo">
@@ -17,14 +21,14 @@ function Login () {
             <div className="login-right">
                 <h1>Login App</h1>
                 <div className="login-input-email">
-                    <BiMailSend/>
+                    <BiMailSend size ={25}/>
                     <input type= "email" placeholder="email@domain.com" value={email} onChange={e =>setEmail(e.target.value)}  ></input>
                 </div>
                 <div className="login-input-password">
-                    <BiLock/>
+                    <BiLock size ={28}/>
                     <input type= {show ? "text" : "password"}  placeholder= "Password" value={password} onChange={e =>setPassword(e.target.value)}></input>
                         <div className="login-eye">
-                            {show ? (<HiEye/>) : (<HiOutlineEyeOff/>)}
+                            {show ? (<HiEye onClick = {handleClick}/>):( <HiOutlineEyeOff onClick = {handleClick}/>)}
                         </div>
                 </div>
 
