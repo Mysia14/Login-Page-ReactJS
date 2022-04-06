@@ -16,12 +16,10 @@
   Imagens do Projeto Login.
 </h4>
 
-<a href="https://imgur.com/q6a5WAW"><img src="https://i.imgur.com/q6a5WAW.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/KoyZlUn"><img src="https://i.imgur.com/KoyZlUn.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/q6a5WAW"><img src="https:l//i.imgur.com/q6a5WAW.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/KoyZlUn"><img src="https:/l/i.imgur.com/KoyZlUn.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
-
-Este projeto foi desenvolvido no decorrer dos meus estudos, com o propósito de aumentar meus conhecimentos com a tecnologia. Eu utizei as tecnologias logo abaixo:
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
