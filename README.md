@@ -16,10 +16,9 @@
   Imagens do Projeto Login.
 </h4>
 
-<img src="![Screenshot 2022-04-06 at 10-39-39 Login App](https://user-images.githubusercontent.com/80990809/162025400-27507642-5541-4aeb-bd2b-d28c341cde03.png)"
+<img src="https://user-images.githubusercontent.com/80990809/162025400-27507642-5541-4aeb-bd2b-d28c341cde03.png"
  title="password visible" /></a>
-<img src="  ![Screenshot 2022-04-06 at 10-38-45 Login App](https://user-images.githubusercontent.com/80990809/162025467-9dcbcf90-1e26-4725-8730-e5da2febddde.png)
- " title="hidden password" /></a>
+<img src="https://user-images.githubusercontent.com/80990809/162025467-9dcbcf90-1e26-4725-8730-e5da2febddde.png" title="hidden password" /></a>
 
 ## :rocket: Tecnologias
 
