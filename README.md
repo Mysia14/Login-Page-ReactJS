@@ -20,7 +20,7 @@ Login App.
  title="password visible" width= 450px height=400px align=center/></a>
 <img src="https://user-images.githubusercontent.com/80990809/162025467-9dcbcf90-1e26-4725-8730-e5da2febddde.png" title="hidden password"  width= 450px height=400px align=center/></a>
 ----------------------------------------------------------------------------------------------------------------------------------------------
-## :computer: Tecnologias
+## :computer: Tecnologies
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
