@@ -17,10 +17,10 @@ Login App.
 </h4>
 
 <img  src="https://user-images.githubusercontent.com/80990809/162025400-27507642-5541-4aeb-bd2b-d28c341cde03.png"
- title="password visible" width= 300px height=300px align=center/></a>
-<img src="https://user-images.githubusercontent.com/80990809/162025467-9dcbcf90-1e26-4725-8730-e5da2febddde.png" title="hidden password"  width= 300px height=300px align=center/></a>
+ title="password visible" width= 400px height=400px align=center/></a>
+<img src="https://user-images.githubusercontent.com/80990809/162025467-9dcbcf90-1e26-4725-8730-e5da2febddde.png" title="hidden password"  width= 400px height=400px align=center/></a>
 ----------------------------------------------------------------------------------------------------------------------------------------------
-## :rocket: Tecnologias
+## :computer: Tecnologias
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
@@ -29,7 +29,7 @@ Login App.
 -  [MDS web docs](https://developer.mozilla.org/pt-BR/)
 -  [Documentação](https://pt.wikipedia.org/wiki/JavaScript)
 -----------------------------------------------------------------------------------------------------------------------------------------------
-## :information_source: How to install and use it.
+## :mag_right: How to install and use it.
 
 Commands:
 
@@ -46,3 +46,6 @@ $ npm install
 # Run the app
 $ npm start
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+## :computer:Project developed to [Mentoria Tech Organization](https://github.com/WF-Mentoria-Tech).
