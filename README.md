@@ -7,9 +7,9 @@
 </h4>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">Licença</a>
+  <a href="#rocket-tecnologias">Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-usar">How to Use </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <h4 align="center">
@@ -17,8 +17,8 @@ Login App.
 </h4>
 
 <img  src="https://user-images.githubusercontent.com/80990809/162025400-27507642-5541-4aeb-bd2b-d28c341cde03.png"
- title="password visible" width= 300px height=300px position=center/></a>
-<img src="https://user-images.githubusercontent.com/80990809/162025467-9dcbcf90-1e26-4725-8730-e5da2febddde.png" title="hidden password"  width= 300px height=300px position=center/></a>
+ title="password visible" width= 300px height=300px align=center/></a>
+<img src="https://user-images.githubusercontent.com/80990809/162025467-9dcbcf90-1e26-4725-8730-e5da2febddde.png" title="hidden password"  width= 300px height=300px align=center/></a>
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ## :rocket: Tecnologias
 
