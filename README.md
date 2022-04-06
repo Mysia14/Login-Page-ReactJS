@@ -13,12 +13,12 @@
 </p>
 
 <h4 align="center">
-Login Page.
+Login App.
 </h4>
 
 <img  src="https://user-images.githubusercontent.com/80990809/162025400-27507642-5541-4aeb-bd2b-d28c341cde03.png"
- title="password visible" width= 300px height=300px/></a>
-<img src="https://user-images.githubusercontent.com/80990809/162025467-9dcbcf90-1e26-4725-8730-e5da2febddde.png" title="hidden password"  width= 300px height=300px/></a>
+ title="password visible" width= 300px height=300px position=center/></a>
+<img src="https://user-images.githubusercontent.com/80990809/162025467-9dcbcf90-1e26-4725-8730-e5da2febddde.png" title="hidden password"  width= 300px height=300px position=center/></a>
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ## :rocket: Tecnologias
 
@@ -29,7 +29,7 @@ Login Page.
 -  [MDS web docs](https://developer.mozilla.org/pt-BR/)
 -  [Documentação](https://pt.wikipedia.org/wiki/JavaScript)
 -----------------------------------------------------------------------------------------------------------------------------------------------
-## :information_source: How to installand use it.
+## :information_source: How to install and use it.
 
 Commands:
 
